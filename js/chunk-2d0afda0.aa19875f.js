@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0afda0"],{"0fa5":function(e,a,t){"use strict";t.r(a);var n=function(){var e=this,a=e.$createElement,t=e._self._c||a;return t("div",{class:e.animateClass},[t("Head",{attrs:{title:"电商",show:!0}}),t("h3",[e._v("welcome to 电商 shop")]),t("Vuex")],1)},s=[],l=t("ed08"),c={mixins:[l["a"]]},i=c,o=t("2877"),u=Object(o["a"])(i,n,s,!1,null,null,null);a["default"]=u.exports}}]);
+//# sourceMappingURL=chunk-2d0afda0.aa19875f.js.map
